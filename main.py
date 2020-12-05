@@ -1,6 +1,4 @@
-from test import Eyob, boo
+from program import Program
 
-obj = Eyob(5)
-obj2 = boo()
-obj.miki()
-print(56)
+obj_program = Program()
+obj_program.menu()
